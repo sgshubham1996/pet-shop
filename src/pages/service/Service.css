@@ -1,0 +1,39 @@
+.service .form{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 20px;
+    width: 100%;
+}
+
+.service .form .input {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.service .table{
+    width: 100%;
+    margin: 10px;
+}
+
+.service button{
+    width: 100px;
+    border: none;
+    height: 40px;
+    border-radius: 10px;
+
+}
+
+.service .table th{
+    background-color: rgba(157, 240, 240, 0.432);
+    color: black;
+    padding: 10px;
+}
+.service .table td{
+    color: black;
+    background-color: rgba(165, 42, 42, 0.199);
+    padding: 10px;
+    font-weight: bold;
+}
+
+
